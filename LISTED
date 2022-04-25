@@ -1,10 +1,10 @@
 {
-  "identifier": "io.github.hkp2k.sn-theme-grey-scale",
-  "name": "Grey Scale",
+  "identifier": "io.github.c0dertitan.sn-theme-all-black"
+  "name": "All Black",
   "content_type": "SN|Theme",
   "area": "themes",
   "version": "1.0.17",
-  "description": "Grey Scale theme for Standard Notes.",
+  "description": "An all black theme for Standard Notes.",
   "url": "https://raw.githubusercontent.com/c0dertitan/sn-theme-all-black/master/dist/dist.css",
   "download_url": "https://github.com/c0dertitan/sn-theme-all-black/archive/1.0.16.zip",
   "latest_url": "https://raw.githubusercontent.com/c0dertitan/sn-theme-all-black/master/LISTED",
