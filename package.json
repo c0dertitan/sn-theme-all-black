@@ -1,5 +1,5 @@
 {
-  "name": "sn-theme-grey-scale",
+  "name": "sn-theme-all-black",
   "version": "1.0.16",
   "main": "dist/dist.css",
   "devDependencies": {
@@ -13,6 +13,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hkp2k/sn-theme-grey-scale.git"
+    "url": "git://github.com/c0dertitan/sn-theme-all-black.git"
   }
 }
